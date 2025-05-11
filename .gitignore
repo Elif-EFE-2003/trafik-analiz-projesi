@@ -74,3 +74,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Python ile ilgili gecici dosyalar
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.env
+*.egg-info/
+.eggs/
+*.manifest
+.env.*
